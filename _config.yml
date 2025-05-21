@@ -13,7 +13,7 @@ title                    : "Xiaoxin Zhang"
 title_separator          : "-"
 name                     : &name "Xiaoxin Zhang"
 description              : &description "Ph.D Candidate in Economics"
-url                      : https://xiaoxin-zhang.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://xiaoxin-zhang.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -28,7 +28,7 @@ author:
   bio              : "Ph.D Candidate in Economics"
   location         : # "Earth"
   employer         : "University of Southern California"
-  uri              : # URL
+  uri              : "https://xiaoxin-zhang.github.io/"
   email            : "xiaoxin@usc.edu" 
 
   # Academic websites
