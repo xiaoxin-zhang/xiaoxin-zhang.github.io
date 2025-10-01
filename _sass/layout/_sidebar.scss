@@ -84,9 +84,10 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
+  height: 36px;
   border-radius: 50%;
+  object-fit: cover;  /* 防止图片被拉伸，保持比例裁剪 */
   // set width only, for non-square avatars
-  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
