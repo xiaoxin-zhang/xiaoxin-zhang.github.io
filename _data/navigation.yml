@@ -13,7 +13,7 @@ main:
     url: /files/cv.pdf
   
   - title: "Research"
-    url: /portfolio/
+    url: /about/#research
   
   - title: "Teaching"
     url: /teaching/
