@@ -12,8 +12,8 @@ main:
   - title: "CV"
     url: /files/cv.pdf
   
-  - title: "Research"
-    url: /about/#research
+ # - title: "Research"
+ #   url: /about/#research
   
-  - title: "Teaching"
-    url: /about/#teaching
+ # - title: "Teaching"
+ #   url: /about/#teaching
