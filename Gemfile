@@ -16,3 +16,4 @@ end
 
 # 去掉这行（除非你确实有依赖需要它）
 # gem "connection_pool", "2.5.0"
+
