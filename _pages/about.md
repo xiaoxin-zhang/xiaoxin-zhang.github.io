@@ -21,7 +21,7 @@ Abstract: Starting in 2011, Zhejiang Province allowed land-expropriated farmers 
 1. **Bundling Pensions and Health Insurance to Mitigate Adverse Selection: Evidence from China’s Laid-Off Workers** *with Danli Shen and Xiang Zhang* 
    <details style="display:inline;">
    <summary>[Abstract]</summary>
-   Many workers laid off during China’s 1997 state-owned enterprise reform are now reaching retirement age. Under the current social insurance system, they face three choices for pension coverage (no enrollment, resident pension, or employee pension) and three parallel choices for health insurance (no enrollment, resident health insurance, or employee health insurance). This project examines whether adverse selection arises in this setting and whether bundling can mitigate it when individuals face multiple insurance options.
+   An estimated 45 million workeers laid off during China’s 1997 state-owned enterprise reform are now reaching retirement age. Under the current social insurance system, they face three choices for pension coverage (no enrollment, resident pension, or employee pension) and three parallel choices for health insurance (no enrollment, resident health insurance, or employee health insurance). This project examines whether adverse selection arises in this setting and whether bundling can mitigate it when individuals face multiple insurance options.
 
    </details>
 2. **Social Pension and Marriage Market** *with Xiang Zhang*
