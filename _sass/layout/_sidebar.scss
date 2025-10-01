@@ -264,3 +264,36 @@
     }
   }
 }
+
+/* 给 Research 区的标题加点样式 */
+#research {
+  margin-top: 3rem;
+}
+
+/* 章节标题 */
+#research h3 {
+  font-size: 1.5em;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* 项目列表 */
+#research ul,
+#research ol {
+  margin-left: 1.5rem;
+  line-height: 1.6;
+}
+
+/* 作者说明样式 */
+#research em {
+  color: #555;
+  font-style: italic;
+  font-size: 0.95em;
+}
+
+/* 分隔线 */
+#research hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 2rem 0;
+}
