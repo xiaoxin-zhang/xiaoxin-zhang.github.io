@@ -1,7 +1,8 @@
-name: Deploy to GitHub Pages
+name: Deploy AcademicPages to GitHub Pages
+
 on:
   push:
-    branches: [ master ]  # 你的默认分支，如是 main 就改成 main
+    branches: [ master ]   # 如果你用的是 main，就改成 main
   workflow_dispatch:
 
 permissions:
@@ -9,26 +10,32 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
-
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-ruby@v1
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
-      - run: |
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: |
           gem install bundler
-          bundle config set --local path 'vendor/bundle'
           bundle install
-          bundle exec jekyll build -d _site
-      - uses: actions/upload-pages-artifact@v3
+
+      - name: Build site with Jekyll
+        run: bundle exec jekyll build -d _site
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
           path: _site
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
@@ -36,5 +43,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - id: deployment
+      - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
