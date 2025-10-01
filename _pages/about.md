@@ -26,6 +26,16 @@ Bundling Pensions and Health Insurance to Mitigate Adverse Selection: Evidence f
 
 Many workers laid off during China’s 1997 state-owned enterprise reform are now reaching retirement age. Under the current social insurance system, they can choose among no coverage, enrollment in the resident pension and health programs, or enrollment in the employee pension and health programs. This project examines whether adverse selection arises in this multi-insurance setting and whether bundling pensions and health insurance can mitigate it.
 </details>
+
+
+1. **Bundling Pensions and Health Insurance to Mitigate Adverse Selection: Evidence from China’s Laid-Off Workers** *with Danli Shen and Xiang Zhang*  
+
+<details>
+<summary><strong>Abstract</strong></summary>
+Many workers laid off during China’s 1997 state-owned enterprise reform are now reaching retirement age. Under the current social insurance system, they can choose among no coverage, enrollment in the resident pension and health programs, or enrollment in the employee pension and health programs. This project examines whether adverse selection arises in this multi-insurance setting and whether bundling pensions and health insurance can mitigate it.
+</details>
+
+
 3. **Social Pension and Marriage Market** *with Xiang Zhang*
 Abstract: We exploit the staggered rollout of the New Rural Pension Scheme (NRPS)---a nationwide program providing modest, unconditional monthly benefits to rural residents aged 60 and above---as a quasi-experiment. By improving women’s long-term financial independence, the NRPS may reduce their reliance on men, making them more willing to exit unsatisfactory marriages or more selective in spouse choice. Using individual-level survey data, we find no significant effect on divorce, likely due to very low baseline rates (around 0.3\%), but we uncover broader marital responses: while the NRPS has little impact on women’s marriage rates, it significantly reduces men’s likelihood of marriage. This asymmetric effect suggests that improved financial security lowers men’s incentives to marry and worsens matching prospects for lower-quality men. 
 4. **Mandatory Savings and Housing Demand: Evidence from the Housing Provident Fund in China** *with Xiang Zhang*
