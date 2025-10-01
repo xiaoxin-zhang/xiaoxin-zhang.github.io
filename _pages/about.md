@@ -62,12 +62,12 @@ Abstract: Starting in 2011, Zhejiang Province allowed land-expropriated farmers 
 ## Teaching
 
 <ul class="teaching-list">
-  <li><strong>Introduction to Econometrics (Undergraduate)</strong>, USC — <em>Fall 2025</em></li>
-  <li><strong>Principles of Macroeconomics (Undergraduate)</strong>, USC — <em>Fall 2024</em></li>
-  <li><strong>Macroeconomic Analysis and Policy (Graduate)</strong>, USC — <em>Spring 2024</em></li>
-  <li><strong>Financial Markets (Undergraduate)</strong>, USC — <em>Spring 2022</em></li>
-  <li><strong>Time Series Analysis (Graduate)</strong>, USC — <em>Fall 2021</em></li>
-  <li><strong>Big Data Econometrics (Graduate)</strong>, USC — <em>Fall 2021, Fall 2022</em></li>
-  <li><strong>Microeconomics I &amp; II (Graduate)</strong>, Tufts — <em>Fall 2019, Spring 2020</em></li>
-  <li><strong>New Institutional Economics (Undergraduate)</strong>, Zhejiang University — <em>Spring 2017, Spring 2018</em></li>
+  <li><strong>Introduction to Econometrics (Undergraduate)</strong>, USC, Fall 2025
+  <li><strong>Principles of Macroeconomics (Undergraduate)</strong>, USC, Fall 2024
+  <li><strong>Macroeconomic Analysis and Policy (Graduate)</strong>, USC, Spring 2024
+  <li><strong>Financial Markets (Undergraduate)</strong>, USC, Spring 2022
+  <li><strong>Time Series Analysis (Graduate)</strong>, USC, Fall 2021
+  <li><strong>Big Data Econometrics (Graduate)</strong>, USC, Fall 2021, Fall 2022
+  <li><strong>Microeconomics I &amp; II (Graduate)</strong>, Tufts, Fall 2019, Spring 2020
+  <li><strong>New Institutional Economics (Undergraduate)</strong>, Zhejiang University, Spring 2017, Spring 2018
 </ul>
