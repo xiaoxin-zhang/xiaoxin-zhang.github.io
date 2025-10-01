@@ -60,11 +60,11 @@ Abstract: Starting in 2011, Zhejiang Province allowed land-expropriated farmers 
 
 ## <a id="teaching"></a> Teaching
 
-  <li><strong>Introduction to Econometrics (Undergraduate)</strong>, USC, Fall 2025
-  <li><strong>Principles of Macroeconomics (Undergraduate)</strong>, USC, Fall 2024
-  <li><strong>Macroeconomic Analysis and Policy (Graduate)</strong>, USC, Spring 2024
-  <li><strong>Financial Markets (Undergraduate)</strong>, USC, Spring 2022
-  <li><strong>Time Series Analysis (Graduate)</strong>, USC, Fall 2021
-  <li><strong>Big Data Econometrics (Graduate)</strong>, USC, Fall 2021, 2022
-  <li><strong>Microeconomics I &amp; II (Graduate)</strong>, Tufts, Fall 2019, Spring 2020
-  <li><strong>New Institutional Economics (Undergraduate)</strong>, Zhejiang University, Spring 2017, 2018
+  1. Introduction to Econometrics (Undergraduate)</strong>, USC, Fall 2025
+  2. Principles of Macroeconomics (Undergraduate)</strong>, USC, Fall 2024
+  3. Macroeconomic Analysis and Policy (Graduate)</strong>, USC, Spring 2024
+  4. Financial Markets (Undergraduate)</strong>, USC, Spring 2022
+  5. Time Series Analysis (Graduate)</strong>, USC, Fall 2021
+  6. Big Data Econometrics (Graduate)</strong>, USC, Fall 2021, 2022
+  7. Microeconomics I &amp; II (Graduate)</strong>, Tufts, Fall 2019, Spring 2020
+  8. New Institutional Economics (Undergraduate)</strong>, Zhejiang University, Spring 2017, 2018
