@@ -65,6 +65,6 @@ Abstract: Starting in 2011, Zhejiang Province allowed land-expropriated farmers 
   <li><strong>Macroeconomic Analysis and Policy (Graduate)</strong>, USC, Spring 2024
   <li><strong>Financial Markets (Undergraduate)</strong>, USC, Spring 2022
   <li><strong>Time Series Analysis (Graduate)</strong>, USC, Fall 2021
-  <li><strong>Big Data Econometrics (Graduate)</strong>, USC, Fall 2021, Fall 2022
+  <li><strong>Big Data Econometrics (Graduate)</strong>, USC, Fall 2021, 2022
   <li><strong>Microeconomics I &amp; II (Graduate)</strong>, Tufts, Fall 2019, Spring 2020
-  <li><strong>New Institutional Economics (Undergraduate)</strong>, Zhejiang University, Spring 2017, Spring 2018
+  <li><strong>New Institutional Economics (Undergraduate)</strong>, Zhejiang University, Spring 2017, 2018
