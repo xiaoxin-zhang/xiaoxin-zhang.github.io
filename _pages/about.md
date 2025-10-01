@@ -14,7 +14,7 @@ Hi, I am a Ph.D. candidate in Economics at the University of Southern California
 ### Job Market Paper
 - **Bundling Pension and Health Insurance to Mitigate Adverse Selection: Evidence from Land-Expropriated Farmers in China**  
   with Danli Shen and Xiang Zhang  
-  *Abstract: Starting in 2011, Zhejiang Province allowed land-expropriated farmers to voluntarily upgrade from low-premium, low-benefit pension and health insurance programs to high-premium, high-benefit employee schemes. Using administrative data from City C, we document evidence of adverse selection in both pension and health insurance. Applying instrumental variable and regression discontinuity designs, we estimate demand, average cost, and marginal cost curves to quantify welfare losses and show that bundling pension and health insurance mitigates adverse selection through improved risk pooling---since healthier individuals favor pension, while less healthy individuals prefer health insurance.*
+  Abstract: Starting in 2011, Zhejiang Province allowed land-expropriated farmers to voluntarily upgrade from low-premium, low-benefit pension and health insurance programs to high-premium, high-benefit employee schemes. Using administrative data from City C, we document evidence of adverse selection in both pension and health insurance. Applying instrumental variable and regression discontinuity designs, we estimate demand, average cost, and marginal cost curves to quantify welfare losses and show that bundling pension and health insurance mitigates adverse selection through improved risk pooling---since healthier individuals favor pension, while less healthy individuals prefer health insurance.
 
 ---
 
