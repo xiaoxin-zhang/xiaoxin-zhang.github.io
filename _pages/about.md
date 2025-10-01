@@ -10,7 +10,7 @@ redirect_from:
 Hi, I am a Ph.D. candidate in Economics at the University of Southern California. My research focuses on public economics, health economics and the economics of aging. I am on the 2025-2026 job market.
 
 
-<div id="research">
+## <a id="research"></a> Research
 ### Job Market Paper
 - **Bundling Pension and Health Insurance to Mitigate Adverse Selection: Evidence from Land-Expropriated Farmers in China**  
   with Danli Shen and Xiang Zhang  
@@ -32,4 +32,3 @@ Hi, I am a Ph.D. candidate in Economics at the University of Southern California
 6. **The Impact of China’s One-Child Policy on Women’s Lifetime Income**  
 7. **How Land Expropriation Affects Farmers’ Labor Market Decisions**  
 8. **From Home to Classroom: The Educational Impact of Housing Demolition**
-</div>
