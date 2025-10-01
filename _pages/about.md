@@ -57,38 +57,7 @@ Abstract: Starting in 2011, Zhejiang Province allowed land-expropriated farmers 
    </details>
 
 
-   ## Work in Progress
 
-<ol>
-  <li>
-    <strong>Bundling Pensions and Health Insurance to Mitigate Adverse Selection: Evidence from China’s Laid-Off Workers</strong>
-    <em>with Danli Shen and Xiang Zhang</em>
-    <details class="inline-abs"><summary>[Abstract]</summary>
-      Starting in 2011, Zhejiang Province allowed land-expropriated farmers to voluntarily upgrade from low-premium, low-benefit pension and health insurance programs to high-premium, high-benefit employee schemes. Using administrative data from City C, we document evidence of adverse selection in both pension and health insurance. Applying instrumental variable and regression discontinuity designs, we estimate demand, average cost, and marginal cost curves to quantify welfare losses and show that bundling pension and health insurance mitigates adverse selection through improved risk pooling—since healthier individuals favor pension, while less healthy individuals prefer health insurance.
-    </details>
-  </li>
-  <li>
-    <strong>Social Pension and Marriage Market</strong> <em>with Xiang Zhang</em>
-  </li>
-  <li>
-    <strong>Mandatory Savings and Housing Demand: Evidence from the Housing Provident Fund in China</strong> <em>with Xiang Zhang</em>
-  </li>
-  <li>
-    <strong>Left Out and Losing Faith: Political Trust and Exclusion from China’s Minimum Living Standard Guarantee</strong> <em>with Ying Lu and Xiang Zhang</em>
-  </li>
-  <li>
-    <strong>Why Do Women Study Harder Than Men: A Perspective on Employment Discrimination</strong> <em>with Sheng Qu and Xiang Zhang</em>
-  </li>
-  <li>
-    <strong>The Impact of China’s One-Child Policy on Women’s Lifetime Income</strong>
-  </li>
-  <li>
-    <strong>How Land Expropriation Affects Farmers’ Labor Market Decisions</strong>
-  </li>
-  <li>
-    <strong>From Home to Classroom: The Educational Impact of Housing Demolition</strong>
-  </li>
-</ol>
 
 ## Teaching
 
