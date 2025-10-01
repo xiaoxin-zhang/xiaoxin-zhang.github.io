@@ -55,3 +55,50 @@ Abstract: Starting in 2011, Zhejiang Province allowed land-expropriated farmers 
    <summary>[Abstract]</summary>
    I study the causal effect of migration on children’s education using large-scale urban demolitions as an exogenous shock to household location. Exploiting variation in the timing and geographic targeting of demolitions as an instrument for migration, I compare displaced children with peers in nearby unaffected neighborhoods, thereby isolating the impact of involuntary migration from confounding factors. 
    </details>
+
+
+   ## Work in Progress
+
+<ol>
+  <li>
+    <strong>Bundling Pensions and Health Insurance to Mitigate Adverse Selection: Evidence from China’s Laid-Off Workers</strong>
+    <em>with Danli Shen and Xiang Zhang</em>
+    <details class="inline-abs"><summary>[Abstract]</summary>
+      Starting in 2011, Zhejiang Province allowed land-expropriated farmers to voluntarily upgrade from low-premium, low-benefit pension and health insurance programs to high-premium, high-benefit employee schemes. Using administrative data from City C, we document evidence of adverse selection in both pension and health insurance. Applying instrumental variable and regression discontinuity designs, we estimate demand, average cost, and marginal cost curves to quantify welfare losses and show that bundling pension and health insurance mitigates adverse selection through improved risk pooling—since healthier individuals favor pension, while less healthy individuals prefer health insurance.
+    </details>
+  </li>
+  <li>
+    <strong>Social Pension and Marriage Market</strong> <em>with Xiang Zhang</em>
+  </li>
+  <li>
+    <strong>Mandatory Savings and Housing Demand: Evidence from the Housing Provident Fund in China</strong> <em>with Xiang Zhang</em>
+  </li>
+  <li>
+    <strong>Left Out and Losing Faith: Political Trust and Exclusion from China’s Minimum Living Standard Guarantee</strong> <em>with Ying Lu and Xiang Zhang</em>
+  </li>
+  <li>
+    <strong>Why Do Women Study Harder Than Men: A Perspective on Employment Discrimination</strong> <em>with Sheng Qu and Xiang Zhang</em>
+  </li>
+  <li>
+    <strong>The Impact of China’s One-Child Policy on Women’s Lifetime Income</strong>
+  </li>
+  <li>
+    <strong>How Land Expropriation Affects Farmers’ Labor Market Decisions</strong>
+  </li>
+  <li>
+    <strong>From Home to Classroom: The Educational Impact of Housing Demolition</strong>
+  </li>
+</ol>
+
+## Teaching
+
+<ul class="teaching-list">
+  <li><strong>Introduction to Econometrics (Undergraduate)</strong>, USC — <em>Fall 2025</em></li>
+  <li><strong>Principles of Macroeconomics (Undergraduate)</strong>, USC — <em>Fall 2024</em></li>
+  <li><strong>Macroeconomic Analysis and Policy (Graduate)</strong>, USC — <em>Spring 2024</em></li>
+  <li><strong>Financial Markets (Undergraduate)</strong>, USC — <em>Spring 2022</em></li>
+  <li><strong>Time Series Analysis (Graduate)</strong>, USC — <em>Fall 2021</em></li>
+  <li><strong>Big Data Econometrics (Graduate)</strong>, USC — <em>Fall 2021, Fall 2022</em></li>
+  <li><strong>Microeconomics I &amp; II (Graduate)</strong>, Tufts — <em>Fall 2019, Spring 2020</em></li>
+  <li><strong>New Institutional Economics (Undergraduate)</strong>, Zhejiang University — <em>Spring 2017, Spring 2018</em></li>
+</ul>
