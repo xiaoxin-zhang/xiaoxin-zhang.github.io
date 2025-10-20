@@ -71,4 +71,4 @@ Abstract: Starting in 2011, Zhejiang Province allowed land-expropriated farmers 
   5. Time Series Analysis (Graduate), USC, Fall 2021
   6. Big Data Econometrics (Graduate), USC, Fall 2021, 2022
   7. Microeconomics I &amp; II (Graduate), Tufts, Fall 2019, Spring 2020
-  8. New Institutional Economics (Undergraduate), Zhejiang University, Spring 2017, 2018
+  8. New Institutional Economics (Undergraduate), ZJU, Spring 2017, 2018
