@@ -1,14 +1,11 @@
 ---
 permalink: /
 layout: single
-title: 
+title:
 author_profile: true
 sidebar: false
-toc: false              # 关闭右侧目录栏
-classes: wide           # Minimal Mistakes 提供的宽版布局
-redirect_from:
-  - /about/
-  - /about.html
+toc: false
+classes: wide
 ---
 
 Hi, I am a Ph.D. candidate in Economics at the University of Southern California. My research focuses on public economics, health economics, and the economics of aging. I am on the 2025-2026 job market.
