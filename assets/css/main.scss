@@ -42,3 +42,15 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 html { scroll-behavior: smooth; }
+
+// === Make main content wider ===
+.page__content {
+  max-width: 1000px;   // 默认大约是 760px
+  margin: 0 auto;
+}
+
+@media (min-width: 1200px) {
+  .page {
+    max-width: 1100px; // 控制整体宽度
+  }
+}
