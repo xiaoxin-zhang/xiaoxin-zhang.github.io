@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: single
-title: "Xiaoxin Zhang"
+title: 
 author_profile: true
 sidebar: false
 redirect_from:
