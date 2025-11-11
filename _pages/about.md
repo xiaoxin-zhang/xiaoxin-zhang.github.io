@@ -2,13 +2,12 @@
 permalink: /
 layout: single
 title:
-author_profile: false   # 关掉侧栏里的作者卡
+author_profile: true   # 关掉侧栏里的作者卡
 sidebar: false          # 不要右侧栏
 classes: wide           # 宽版布局
 toc: false
 ---
 
-{% include author-profile.html %}
 
 Hi, I am a Ph.D. candidate in Economics at the University of Southern California. My research focuses on public economics, health economics, and the economics of aging. I am on the 2025-2026 job market.
 
