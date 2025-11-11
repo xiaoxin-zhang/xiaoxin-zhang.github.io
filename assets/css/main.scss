@@ -56,19 +56,29 @@ html { scroll-behavior: smooth; }
   max-width: none;
 }
 
-/* 大屏时放宽整体宽度（覆盖主题默认 ~760/960 的限制） */
-@media screen and (min-width: 80em) {
-  .page { max-width: var(--site-max-width); }
+/* === Wider content + narrower author sidebar (Minimal Mistakes) === */
+@media screen and (min-width: 64em) {
+  /* 用网格接管主区域布局：左=正文，右=作者卡片 */
+  .layout--single #main {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 260px; /* 右侧栏缩到 ~260px */
+    column-gap: 2rem;
+    max-width: 1200px;  /* 整体放宽，可改 1280/1360 */
+    margin: 0 auto;
+  }
+
+  /* 让正文不再被内层 max-width 限制，充分占用左列 */
+  .layout--single .page,
+  .layout--single .page__content,
+  .layout--single .page__inner-wrap,
+  .layout--single .initial-content {
+    max-width: none;
+  }
+
+  /* 兼容主题对侧栏的宽度/定位 */
+  .layout--single .sidebar {
+    width: auto;            /* 交由 grid 控制 */
+  }
 }
 
-/* 兼容一些主题布局里对内层再限宽的写法 */
-.page__inner-wrap,
-.initial-content {
-  max-width: inherit;
-}
-
-/* 小提示：如有右侧目录/侧栏开启，会视觉上显得变窄。需要纯正文满宽，在页面 Front Matter 里加：
-   sidebar: false
-   toc: false
-   author_profile: false
-*/
+/* 如需进一步放宽正文，调大这里的 max-width 或把右列改成 240px/220px */
