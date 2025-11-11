@@ -60,3 +60,13 @@ html { scroll-behavior: smooth; }
     max-width: 1150px; // 你可以尝试 1150~1200，看自己喜欢的宽度
   }
 }
+
+/* widen page on large screens */
+@media screen and (min-width: 80em) {
+  .page {
+    max-width: 1200px;   /* 可改成 1280/1360 */
+  }
+  .page__content {
+    max-width: none;
+  }
+}
