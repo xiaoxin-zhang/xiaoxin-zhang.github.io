@@ -55,6 +55,7 @@ Abstract: Starting in 2011, Zhejiang Province allowed land-expropriated farmers 
 
 
 ## <a id="teaching"></a> Teaching
+### Teaching Assistant
   1. Microeconomic Theory II (Graduate), USC, Spring 2026
   2. Introduction to Econometrics (Undergraduate), USC, Fall 2025
   3. Principles of Macroeconomics (Undergraduate), USC, Fall 2024
