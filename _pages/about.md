@@ -41,22 +41,12 @@ Abstract: Starting in 2011, Zhejiang Province allowed land-expropriated farmers 
    <summary>[Abstract]</summary>
    We examine how exclusion from the Dibao program, the country’s primary means-tested cash transfer, affects trust in government. Under Dibao, households with income below the official threshold are entitled to transfers that fill the gap between their income and the minimum standard. Using nationally representative household survey data, we implement a fuzzy regression discontinuity design that exploits the eligibility cutoff under imperfect compliance to estimate the causal effect of Dibao on political trust. We then examine downstream effects, asking whether reduced trust in local government lowers participation in other voluntary social insurance programs, such as the New Rural Pension Scheme and the New Cooperative Medical Scheme. 
    </details>
-5. **Why Do Women Study Harder Than Men: A Perspective on Employment Discrimination** *with Sheng Qu and Xiang Zhang*
-   <details style="display:inline;">
-   <summary>[Abstract]</summary>
-   We examine whether women exert greater academic effort in college in anticipation of gender discrimination in the labor market. To test this hypothesis, we exploit the relaxation of China’s one-child policy as an exogenous shock to gender-specific employment expectations. The shift from one- to a two-child policy likely heightened employers’ concerns about women’s career interruptions, thereby increasing discrimination. We construct a shift-share instrumental variable for regional gender discrimination, where the shift is the national policy change and the share is the pre-policy local fertility rate and female employment composition. Linking this instrument to individual-level college academic records, we estimate how anticipated discrimination shapes women’s educational effort. 
-   </details>
-6. **The Impact of China’s One-Child Policy on Women’s Lifetime Income**
-   <details style="display:inline;">
-   <summary>[Abstract]</summary>
-   We exploit the introduction of the one-child policy to examine how it postponed women’s age at first birth and, in turn, affected their lifetime income through the permanent wage drop commonly referred to as the child penalty. 
-   </details>
-7. **How Land Expropriation Affects Farmers’ Labor Market Decisions**
+5. **How Land Expropriation Affects Farmers’ Labor Market Decisions**
    <details style="display:inline;">
    <summary>[Abstract]</summary>
    I use nationally representative panel data to examine how expropriation shapes rural labor markets. Because land takings are determined by the government at the village level, they are exogenous to individual characteristics. Comparing individuals before and after expropriation with non-expropriated peers in the same village, I find that expropriation significantly reduces agricultural employment but has little effect on non-agricultural work. This reflects the fact that older individuals, who dominate agricultural activities, are less likely to transition into other sectors. 
    </details>
-8. **From Home to Classroom: The Educational Impact of Housing Demolition**
+6. **From Home to Classroom: The Educational Impact of Housing Demolition**
    <details style="display:inline;">
    <summary>[Abstract]</summary>
    I study the causal effect of migration on children’s education using large-scale urban demolitions as an exogenous shock to household location. Exploiting variation in the timing and geographic targeting of demolitions as an instrument for migration, I compare displaced children with peers in nearby unaffected neighborhoods, thereby isolating the impact of involuntary migration from confounding factors. 
@@ -65,11 +55,12 @@ Abstract: Starting in 2011, Zhejiang Province allowed land-expropriated farmers 
 
 
 ## <a id="teaching"></a> Teaching
-  1. Introduction to Econometrics (Undergraduate), USC, Fall 2025
-  2. Principles of Macroeconomics (Undergraduate), USC, Fall 2024
-  3. Macroeconomic Analysis and Policy (Graduate), USC, Spring 2024
-  4. Financial Markets (Undergraduate), USC, Spring 2022
-  5. Time Series Analysis (Graduate), USC, Fall 2021
-  6. Big Data Econometrics (Graduate), USC, Fall 2021, 2022
-  7. Microeconomics I &amp; II (Graduate), Tufts, Fall 2019, Spring 2020
-  8. New Institutional Economics (Undergraduate), ZJU, Spring 2017, 2018
+  1. Microeconomic Theory II (Graduate), USC, Spring 2026
+  2. Introduction to Econometrics (Undergraduate), USC, Fall 2025
+  3. Principles of Macroeconomics (Undergraduate), USC, Fall 2024
+  4. Macroeconomic Analysis and Policy (Graduate), USC, Spring 2024
+  5. Financial Markets (Undergraduate), USC, Spring 2022
+  6. Time Series Analysis (Graduate), USC, Fall 2021
+  7. Big Data Econometrics (Graduate), USC, Fall 2021, 2022
+  8. Microeconomics I &amp; II (Graduate), Tufts, Fall 2019, Spring 2020
+  9. New Institutional Economics (Undergraduate), ZJU, Spring 2017, 2018
